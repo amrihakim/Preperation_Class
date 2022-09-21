@@ -1,4 +1,5 @@
 Nama : Amri Khoirul Hakim
 Stack : Fullstack
-Branch : main
+Branch : sesiSore
 Tambahan line di main
+
