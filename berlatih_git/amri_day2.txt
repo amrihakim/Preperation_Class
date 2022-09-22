@@ -2,4 +2,5 @@ Nama : Amri Khoirul Hakim
 Stack : Fullstack
 Branch : sesiSore
 Tambahan line di main
+Kemarin adalah day 2
 
