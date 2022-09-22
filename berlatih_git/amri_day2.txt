@@ -1,6 +1,8 @@
 Nama : Amri Khoirul Hakim
 Stack : Fullstack
-Branch : sesiSore
+Branch : main
 Tambahan line di main
 Kemarin adalah day 2
+
+Sekarang adalah day 3
 
